@@ -19,7 +19,7 @@
     "node": "^20.15.0",
     "node.js": "^0.0.1-security",
     "react-router-dom": "^6.24.1",
-    "sxpress": "^1.0.3",
+    "xpress": "^1.0.3",
     "uuid": "^10.0.0"
   },
   "devDependencies": {
