@@ -1135,16 +1135,16 @@ node.js@^0.0.1-security:
   resolved "https://registry.npmjs.org/node.js/-/node.js-0.0.1-security.tgz"
   integrity sha512-8tWQiyg/3ggdLTrtfgj/NxmZpC20eB1U5VNkqt2dbelpcr3NrfjpEE3DgifpBOCJ4Xu9Obvu8iju63ViQW3Hvg==
 
-node@^20.16.0:
-  version "20.16.0"
-  resolved "https://registry.yarnpkg.com/node/-/node-20.16.0.tgz#943c9684dd94e038cd154e080be9e8c1ecc6b196"
-  integrity sha512-NNbwzbXNi1MBoLYZAKVig2ICuCH6Wueke3zrsldpjtrSkL6QqBDhiZeBFOi19mj9kxeEPKldjHfem0rnK8OKrw==
+node@^20.15.0:
+  version "20.15.0"
+  resolved "https://registry.npmjs.org/node/-/node-20.15.0.tgz"
+  integrity sha512-zsJ9aOJAKhnR9rJ4BBfGmgiBmG3ZlLXLZ4jBjshPib+S8qKSY+ggBvphceT5gHF1X7KB4UP1ImU/A4EYr31Y2g==
   dependencies:
     node-bin-setup "^1.0.0"
 
 nodemon@^3.1.4:
   version "3.1.4"
-  resolved "https://registry.npmjs.org/nodemon/-/nodemon-3.1.4.tgz"
+  resolved "https://registry.yarnpkg.com/nodemon/-/nodemon-3.1.4.tgz#c34dcd8eb46a05723ccde60cbdd25addcc8725e4"
   integrity sha512-wjPBbFhtpJwmIeY2yP7QF+UKzPfltVGtfce1g/bB15/8vCGZj8uxD62b/b9M9/WVgme0NZudpownKN+c0plXlQ==
   dependencies:
     chokidar "^3.5.2"
